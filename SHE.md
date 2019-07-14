@@ -1,7 +1,7 @@
 # Science as a human endeavour
 
-| AA | BB | CC | DD |
------------------
+AA | BB | CC | DD
+---|----|----|---
 aa | bb | cc | dd
 ee | ff | gg | hh
 ii | jj | kk | ll
