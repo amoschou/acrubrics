@@ -8,6 +8,11 @@ ii | jj | kk | ll
 
 ## Sub-strand descriptions
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ### Nature and development of science
 This sub-strand develops an appreciation of the unique nature of science and scientific knowledge, including how current knowledge has developed over time through the actions of many people.
 
