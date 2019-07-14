@@ -1,17 +1,6 @@
 # Science as a human endeavour
 
-AA | BB | CC | DD
----|----|----|---
-aa | bb | cc | dd
-ee | ff | gg | hh
-ii | jj | kk | ll
-
 ## Sub-strand descriptions
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 ### Nature and development of science
 This sub-strand develops an appreciation of the unique nature of science and scientific knowledge, including how current knowledge has developed over time through the actions of many people.
@@ -58,7 +47,15 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 * International collaboration is often required when investing in large-scale science projects or addressing issues for the Asia-Pacific region
 * Scientific knowledge can be used to develop and evaluate projected economic, social and environmental impacts and to design action for sustainability
 
+## Rubric
 
+| Rubric | Year 7 | Year 8 | Year 9 | Year 10 | Senior secondary |
+---------|--------|--------|--------|---------|-------------------
+A | <ul><li>Explains situations where different sciences, in concert with each other and from contributions of people from diverse cultures, have been used to solve a real-world problem.</li><li>Evaluates implications of these solutions for different groups in society \[and consider how ethical factors are involved\].</li></ul> | <ul><li>Examines the different science understanding and skills used in occupations and explains how these have influenced human life.</li><li>Analyses how a range of new evidence from multiple individuals and across disciplines leads to an improved and refined understanding of a scientific idea.</li><li>Explains situations in which scientists collaborated to generate solutions to contemporary problems.</li><li>Analyses implications of these solutions for different groups in society \[and considers how ethical, social and technological factors are involved\].</li></ul> | <ul></ul> | <ul></ul> | For the science contexts studied, the student: <ul><li>Analyses the roles of collaboration, debate and review, and technologies, in the development of science theories and models</li><li>Evaluates how science has been used in concert with other sciences to meet diverse needs and to inform decision making; and how these applications are influenced by interacting social, economic and ethical factors</li></ul>
+B | <ul><li>Discusses situations where different sciences, in concert with each other and from contributions of people from diverse cultures, have been used to solve a real-world problem.</li><li>Reflects on implications of the solution for different groups in society \[with consideration of ethical or social factors\].</li></ul> | <ul><li>Examines the different science understanding and skills used in occupations and describes how these have influenced human life.</li><li>Explains how a range of evidence from multiple individuals and across disciplines has led to an improved understanding of a scientific idea.</li><li>Discusses situations in which scientists collaborated to generate solutions to contemporary problems.</li><li>Evaluates implications of these solutions for different groups in society \[and considers how ethical and social factors are involved\].</li></ul> | <ul></ul> | <ul></ul> | For the science contexts studied, the student: <ul><li>Explains the roles of collaboration, debate and review, and technologies, in the development of science theories and models</li><li>Explains how science has been used to meet diverse needs and to inform decision making; and how these applications are influenced by social, economic and ethical factors</li></ul>
+C | 
+D | 
+E | 
 
 
 
