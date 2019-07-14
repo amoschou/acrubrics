@@ -1,0 +1,7 @@
+Material from ACARA is copyrighted:
+
+© Australian Curriculum, Assessment and Reporting Authority (ACARA) 2010 to present, unless otherwise indicated. This material was downloaded from the Australian Curriculum website (www.australiancurriculum.edu.au) (Website) (accessed [insert date]) and [was][was not] modified. The material is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0). Version updates are tracked in the ‘Curriculum version history’ section on the 'About the Australian Curriculum' page (http://australiancurriculum.edu.au/about-the-australian-curriculum/) of the Australian Curriculum website.
+
+ACARA does not endorse any product that uses the Australian Curriculum or make any representations as to the quality of such products. Any product that uses material published on this website should not be taken to be affiliated with ACARA or have the sponsorship or approval of ACARA. It is up to each person to make their own assessment of the product, taking into account matters including, but not limited to, the version number and the degree to which the materials align with the content descriptions and achievement standards (where relevant). Where there is a claim of alignment, it is important to check that the materials align with the content descriptions and achievement standards (endorsed by all education Ministers), not the elaborations (examples provided by ACARA).
+
+Other material is also copyrighted: © Andrew Moschou 2019
