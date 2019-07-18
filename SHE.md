@@ -58,9 +58,12 @@ This sub-strand explores how science knowledge and applications affect peoples�
 * International collaboration is often required when investing in large-scale science projects or addressing issues for the Asia-Pacific region
 * Scientific knowledge can be used to develop and evaluate projected economic, social and environmental impacts and to design action for sustainability
 
-## Rubric
+## Achievement standards and rubrics
 
 ### Year 7
+
+By the end of Year 7,
+Students describe situations where (NDS78–2) scientific knowledge from different science disciplines and diverse cultures has been used (UIS78–1) to solve a real-world problem. They explain (UIS78–1) possible implications of the solution for different groups in society.
 
 | Grade | Nature, development and use of science | Influence of science |
 |-------|---------------------------------------------|--------------------------|
@@ -72,6 +75,9 @@ This sub-strand explores how science knowledge and applications affect peoples�
 
 ### Year 8
 
+By the end of Year 8,
+Students examine (UIS78–2) the different science knowledge used in occupations. They explain how (NDS78–1) evidence has led to an improved understanding of a scientific idea and describe situations in which (NDS78–2) scientists collaborated (UIS78–1) to generate solutions to contemporary problems. They reflect on (UIS78–1) implications of these solutions for different groups in society.
+
 | Grade | Use of science | Development of science | Nature of science | Influence of science |
 |-------|-------------|----------|---------------|--------------------------|
 | A | Examines the different science understanding and skills used in occupations and explains how these have influenced human life. | Analyses how a range of new evidence from multiple individuals and across disciplines leads to an improved and refined understanding of a scientific idea. | Explains situations in which scientists used science and technology and collaborated to generate solutions to contemporary problems. | Analyses implications of these referenced solutions for different groups in society with careful assessment of how ethical and technological factors are involved. |
@@ -82,6 +88,9 @@ This sub-strand explores how science knowledge and applications affect peoples�
 
 ### Year 9
 
+By the end of Year 9,
+Students describe (UIS910–2) social and (NDS910–2) technological factors that have influenced scientific developments and predict how (UIS910–1) future applications of science and technology may affect people’s lives.
+
 | Grade | Nature and development of science | Use and influence of science |
 |-------|------------------------|-----------------|
 | A | Explains values and needs of society and technological advances that have influenced scientific developments. | Describes a trend of how applications of science and technology affect people’s lives and uses this to predict the effect of future advances and applications, including whether people may accept claims, explanations or predictions and generating new career opportunities. |
@@ -91,6 +100,9 @@ This sub-strand explores how science knowledge and applications affect peoples�
 | E | Identifies factors that have influenced scientific understanding. | Identifies how applications of science and technology have affected people’s lives. |
 
 ### Year 10
+
+By the end of Year 10,
+Students analyse how (NDS910–1) the models and theories they use have developed over time and discuss (NDS910–2, UIS910–2) the factors that prompted their review.
 
 | Grade | Nature and development of science | Use and influence of science |
 |-------|------------------------|-------------------|
