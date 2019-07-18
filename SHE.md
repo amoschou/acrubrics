@@ -49,17 +49,52 @@ This sub-strand explores how science knowledge and applications affect peoples�
 
 ## Rubric
 
-| Rubric | Year 7 | Year 8 | Year 9 | Year 10 | Senior secondary |
----------|--------|--------|--------|---------|-------------------
-A | <ul><li>Explains situations where different sciences, in concert with each other and from contributions of people from diverse cultures, have been used to solve a real-world problem.</li><li>Evaluates implications of these solutions for different groups in society \[and consider how ethical factors are involved\].</li></ul> | <ul><li>Examines the different science understanding and skills used in occupations and explains how these have influenced human life.</li><li>Analyses how a range of new evidence from multiple individuals and across disciplines leads to an improved and refined understanding of a scientific idea.</li><li>Explains situations in which scientists collaborated to generate solutions to contemporary problems.</li><li>Analyses implications of these solutions for different groups in society \[and considers how ethical, social and technological factors are involved\].</li></ul> | <ul></ul> | <ul></ul> | For the science contexts studied, the student: <ul><li>Analyses the roles of collaboration, debate and review, and technologies, in the development of science theories and models</li><li>Evaluates how science has been used in concert with other sciences to meet diverse needs and to inform decision making; and how these applications are influenced by interacting social, economic and ethical factors</li></ul>
-B | <ul><li>Discusses situations where different sciences, in concert with each other and from contributions of people from diverse cultures, have been used to solve a real-world problem.</li><li>Reflects on implications of the solution for different groups in society \[with consideration of ethical or social factors\].</li></ul> | <ul><li>Examines the different science understanding and skills used in occupations and describes how these have influenced human life.</li><li>Explains how a range of evidence from multiple individuals and across disciplines has led to an improved understanding of a scientific idea.</li><li>Discusses situations in which scientists collaborated to generate solutions to contemporary problems.</li><li>Evaluates implications of these solutions for different groups in society \[and considers how ethical and social factors are involved\].</li></ul> | <ul></ul> | <ul></ul> | For the science contexts studied, the student: <ul><li>Explains the roles of collaboration, debate and review, and technologies, in the development of science theories and models</li><li>Explains how science has been used to meet diverse needs and to inform decision making; and how these applications are influenced by social, economic and ethical factors</li></ul>
-C | 
-D | 
-E | 
+### Year 7
 
+| Grade | Problem solving | Implications for society |
+|-------|---------------------------------------------|--------------------------|
+| A | Explains situations where scientific knowledge developed through collaboration across the disciplines of science and the contribution of people from a range of cultures has been used to solve a real-world problem. | Evaluates implications of the referenced solution for different groups in society with careful assessment of how ethical factors are involved. |
+| B | Discusses situations where scientific knowledge from different science disciplines and diverse cultures has been used to solve a real-world problem. | Reflects on implications of the referenced solution for different groups in society with consideration of how ethical factors are involved. |
+| C | Describes situations where scientific knowledge from different science disciplines and diverse cultures has been used to solve a real-world problem. | Explains possible implications of the referenced solution for different groups in society. |
+| D | Describes a situation where scientific knowledge has been used to solve a real-world problem. | Describes possible implications of the referenced solution. |
+| E | Identifies a situation where scientific knowledge has been used to solve a meet needs. | Identifies possible implications of the referenced solution. |
 
+### Year 8
 
+| Grade | Occupations | Evidence | Collaboration | Implications for society |
+|-------|-------------|----------|---------------|--------------------------|
+| A | Examines the different science understanding and skills used in occupations and explains how these have influenced human life. | Analyses how a range of new evidence from multiple individuals and across disciplines leads to an improved and refined understanding of a scientific idea. | Explains situations in which scientists used science and technology and collaborated to generate solutions to contemporary problems. | Analyses implications of these referenced solutions for different groups in society with careful assessment of how ethical and technological factors are involved. |
+| B | Examines the different science understanding and skills used in occupations and describes how these have influenced human life. | Explains how a range of evidence from multiple individuals and across disciplines has led to an improved understanding of a scientific idea. | Discusses situations in which scientists used science and technology and collaborated to generate solutions to contemporary problems. | Evaluates implications of these referenced solutions for different groups in society with consideration of how ethical and technological factors are involved. |
+| C | Examines the different science knowledge used in occupations. | Explains how evidence has led to an improved understanding of a scientific idea. | Describes situations in which scientists collaborated to generate solutions to contemporary problems. | Reflects on implications of these referenced solutions for different groups in society. |
+| D | Describes different science knowledge used in occupations. | Describes how evidence develops science knowledge. | Describes a situation in which scientists pursued solutions to contemporary problems. | Describes possible implications of the referenced solution for different groups in society |
+| E | Identifies science knowledge used in occupations. | Identifies how evidence develops science knowledge. | Identifies a situation in which scientists pursued solutions to meet needs. | Identifies possible implications of the referenced solution for groups in society. |
 
+### Year 9
 
+| Grade | Scientific development | Effect on lives |
+|-------|------------------------|-----------------|
+| A | Explains values and needs of society and technological advances that have influenced scientific developments. | Describes a trend of how applications of science and technology affect people’s lives and uses this to predict the effect of future advances and applications, including whether people may accept claims, explanations or predictions and generating new career opportunities. |
+| B | Discusses social and technological factors that have influenced scientific developments. | Identifies how applications of science and technology affect people’s lives and uses this to predict the effect of future applications, including generating new career opportunities. |
+| C | Describes social and technological factors that have influenced scientific developments. | Predicts how future applications of science and technology may affect people’s lives. |
+| D | Identifies social and technological factors that have influenced scientific developments. | Discusses how applications of science and technology have affected people’s lives. |
+| E | Identifies factors that have influenced scientific understanding. | Identifies how applications of science and technology have affected people’s lives. |
 
+### Year 10
 
+| Grade | Scientific development | Scientific review |
+| A | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration, debate and review. | Analyses how the values and needs, including the need or informed decision making, of contemporary society, influencing the focus of scientific research, and technological advances and their associated scientific discoveries prompt review of models and theories. |
+| B | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration and review. | Explains how the values and needs of contemporary society and technological advances prompt review of models and theories. |
+| C | Analyses how the models and theories used have developed over time. | Discusses the factors that prompted the review of referenced models and theories. |
+| D | Explains how the models and theories used have developed over time. | Describes factors that have influenced scientific developments. |
+| E | Describes how the models and theories used have developed over time. | Identifies factors that have influenced scientific developments. |
+
+### Senior secondary
+
+For the science contexts studied, the student:
+| Grade | | |
+|-------|-|-|
+| A | Analyses the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Evaluates how science has been used in concert with other sciences to meet diverse needs and to inform decision making; and how these applications are influenced by interacting social, economic and ethical factors |
+| B | Explains the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Explains how science has been used to meet diverse needs and to inform decision making; and how these applications are influenced by social, economic and ethical factors |
+| C | Describes the roles of collaboration and review, and technologies, in the development of science theories and models | Discusses how science has been used to meet diverse needs and to inform decision making; and some social, economic or ethical implications of these applications |
+| D | Describes the roles of communication and new evidence in developing science knowledge | Describes ways in which science has been used in society to meet needs, and identifies some implications of these applications |
+| E | Identifies that science knowledge has changed over time | Identifies ways in which science has been used in society to meet needs |
