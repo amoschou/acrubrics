@@ -82,6 +82,7 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 ### Year 10
 
 | Grade | Scientific development | Scientific review |
+|-------|------------------------|-------------------|
 | A | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration, debate and review. | Analyses how the values and needs, including the need or informed decision making, of contemporary society, influencing the focus of scientific research, and technological advances and their associated scientific discoveries prompt review of models and theories. |
 | B | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration and review. | Explains how the values and needs of contemporary society and technological advances prompt review of models and theories. |
 | C | Analyses how the models and theories used have developed over time. | Discusses the factors that prompted the review of referenced models and theories. |
@@ -91,8 +92,9 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 ### Senior secondary
 
 For the science contexts studied, the student:
-| Grade | | |
-|-------|-|-|
+
+| Grade |   |   |
+|-------|---|---|
 | A | Analyses the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Evaluates how science has been used in concert with other sciences to meet diverse needs and to inform decision making; and how these applications are influenced by interacting social, economic and ethical factors |
 | B | Explains the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Explains how science has been used to meet diverse needs and to inform decision making; and how these applications are influenced by social, economic and ethical factors |
 | C | Describes the roles of collaboration and review, and technologies, in the development of science theories and models | Discusses how science has been used to meet diverse needs and to inform decision making; and some social, economic or ethical implications of these applications |
