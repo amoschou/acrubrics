@@ -93,6 +93,8 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 
 For the science contexts studied, the student:
 
+| Grade | | |
+|-------|-|-|
 | A | Analyses the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Evaluates how science has been used in concert with other sciences to meet diverse needs and to inform decision making; and how these applications are influenced by interacting social, economic and ethical factors |
 | B | Explains the roles of collaboration, debate and review, and technologies, in the development of science theories and models | Explains how science has been used to meet diverse needs and to inform decision making; and how these applications are influenced by social, economic and ethical factors |
 | C | Describes the roles of collaboration and review, and technologies, in the development of science theories and models | Discusses how science has been used to meet diverse needs and to inform decision making; and some social, economic or ethical implications of these applications |
