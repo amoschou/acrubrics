@@ -82,7 +82,7 @@ This sub-strand explores how science knowledge and applications affect peoples�
 
 ### Year 9
 
-| Grade | Nature and development of science | Use and infuence of science |
+| Grade | Nature and development of science | Use and influence of science |
 |-------|------------------------|-----------------|
 | A | Explains values and needs of society and technological advances that have influenced scientific developments. | Describes a trend of how applications of science and technology affect people’s lives and uses this to predict the effect of future advances and applications, including whether people may accept claims, explanations or predictions and generating new career opportunities. |
 | B | Discusses social and technological factors that have influenced scientific developments. | Identifies how applications of science and technology affect people’s lives and uses this to predict the effect of future applications, including generating new career opportunities. |
