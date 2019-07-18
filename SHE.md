@@ -62,7 +62,7 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 
 ### Year 7
 
-| Grade | Problem solving | Implications for society |
+| Grade | Nature, development and use of science | Influence of science |
 |-------|---------------------------------------------|--------------------------|
 | A | Explains situations where scientific knowledge developed through collaboration across the disciplines of science and the contribution of people from a range of cultures has been used to solve a real-world problem. | Evaluates implications of the referenced solution for different groups in society with careful assessment of how ethical factors are involved. |
 | B | Discusses situations where scientific knowledge from different science disciplines and diverse cultures has been used to solve a real-world problem. | Reflects on implications of the referenced solution for different groups in society with consideration of how ethical factors are involved. |
@@ -72,7 +72,7 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 
 ### Year 8
 
-| Grade | Occupations | Evidence | Collaboration | Implications for society |
+| Grade | Use of science | Development of science | Nature of science | Influence of science |
 |-------|-------------|----------|---------------|--------------------------|
 | A | Examines the different science understanding and skills used in occupations and explains how these have influenced human life. | Analyses how a range of new evidence from multiple individuals and across disciplines leads to an improved and refined understanding of a scientific idea. | Explains situations in which scientists used science and technology and collaborated to generate solutions to contemporary problems. | Analyses implications of these referenced solutions for different groups in society with careful assessment of how ethical and technological factors are involved. |
 | B | Examines the different science understanding and skills used in occupations and describes how these have influenced human life. | Explains how a range of evidence from multiple individuals and across disciplines has led to an improved understanding of a scientific idea. | Discusses situations in which scientists used science and technology and collaborated to generate solutions to contemporary problems. | Evaluates implications of these referenced solutions for different groups in society with consideration of how ethical and technological factors are involved. |
@@ -82,7 +82,7 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 
 ### Year 9
 
-| Grade | Scientific development | Effect on lives |
+| Grade | Nature and development of science | Use and infuence of science |
 |-------|------------------------|-----------------|
 | A | Explains values and needs of society and technological advances that have influenced scientific developments. | Describes a trend of how applications of science and technology affect peopleâ€™s lives and uses this to predict the effect of future advances and applications, including whether people may accept claims, explanations or predictions and generating new career opportunities. |
 | B | Discusses social and technological factors that have influenced scientific developments. | Identifies how applications of science and technology affect peopleâ€™s lives and uses this to predict the effect of future applications, including generating new career opportunities. |
@@ -92,7 +92,7 @@ This sub-strand explores how science knowledge and applications affect peoplesâ€
 
 ### Year 10
 
-| Grade | Scientific development | Scientific review |
+| Grade | Nature and development of science | Use and influence of science |
 |-------|------------------------|-------------------|
 | A | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration, debate and review. | Analyses how the values and needs, including the need or informed decision making, of contemporary society, influencing the focus of scientific research, and technological advances and their associated scientific discoveries prompt review of models and theories. |
 | B | Analyses how the models and theories used to describe scientific understanding are refined over time through collaboration and review. | Explains how the values and needs of contemporary society and technological advances prompt review of models and theories. |
