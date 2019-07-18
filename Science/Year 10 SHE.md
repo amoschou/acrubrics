@@ -3,7 +3,7 @@
 ## Achievement standard
 
 By the end of Year 10,
-Students analyse how the models and theories they use have developed over time and discuss the factors that prompted their review.
+students analyse how the models and theories they use have developed over time and discuss the factors that prompted their review.
 
 ## Rubric
 
