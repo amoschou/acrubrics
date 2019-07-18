@@ -1,5 +1,16 @@
 # Science as a human endeavour
 
+I developed this set of rubrics in response to an apparent lack of good rubrics that assess science as a human endeavour. The philosophy I had in mind while developing this, and its characteristics are:
+
+* It should be general enough to be used everywhere.
+* It should be flexible enough to be useful everywhere.
+* The C grade corresponds directly to the Achievement standard.
+* I looked to other curriculum material (content descriptions, etc.) to describe A and B grades.
+* The content described in two-year bands is completely addressed within the rubrics across both year levels (although not necessarily at C grade).
+* Common elements (vocabulary, structure, scope) are seen across all year levels, including connections into Senior secondary.
+* These rubrics favour verbs of increasing complexity (e.g. Identify—Describe—Discuss—Explain—Analyse) to represent the achievement continuum as opposed to adjectives (e.g. Description—Informed description—Thorough description)
+* Student diversity is catered for by the arrangement from earlier year levels to later year levels, the inclusion of content descriptions, and senior secondary material. Teachers can adapt according to their needs.
+
 ## Sub-strand descriptions
 
 ### Nature and development of science
