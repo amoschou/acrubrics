@@ -3,7 +3,7 @@
 ## Achievement standard
 
 By the end of Year 8,
-Students examine (UIS78–2) the different science knowledge used in occupations. They explain how (NDS78–1) evidence has led to an improved understanding of a scientific idea and describe situations in which (NDS78–2) scientists collaborated (UIS78–1) to generate solutions to contemporary problems. They reflect on (UIS78–1) implications of these solutions for different groups in society.
+Students examine the different science knowledge used in occupations. They explain how evidence has led to an improved understanding of a scientific idea and describe situations in which scientists collaborated to generate solutions to contemporary problems. They reflect on implications of these solutions for different groups in society.
 
 ## Rubric
 
