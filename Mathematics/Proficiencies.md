@@ -45,3 +45,23 @@
 | Students develop the ability to: | make choices | | | | | &check; |
 |  | interpret, formulate, model and investigate problem situations | | | | | &check; |
 |  | communicate solutions effectively | | | | | &check; |
+
+## Reasoning
+
+| | | | Foundation to Year 2 | Years 3 to 6 | Years 7 and 8 | Years 9 and 10 |
+|---|---|---|--------|--------|--------|---------|
+| Students: | develop an increasingly sophisticated capacity for logical thought and actions | | &check; | &check; | &check; | &check; |
+|           | such as | analysing |  |  | &check; | &check; |
+| | | proving |  |  |  | &check; |
+| | | evaluating |  | &check; | &check; | &check; |
+| | | explaining |  | &check; | &check; | &check; |
+| | | inferring |  |  |  | &check; |
+| | | justifying |  |  | &check; | &check; |
+| | | generalising |  | &check; | &check; | &check; |
+| Students are reasoning mathematically when they: | explain their thinking | | &check; | &check; | &check; | &check; |
+| | deduce and justify strategies used and conclusions reached | | | | &check; | &check; |
+| | adapt the known to the unknown | | | &check; | &check; | &check; |
+| | transfer learning from one context to another | | | &check; | &check; | &check; |
+| | prove that something is true or false | | | |  | &check; |
+| | compare and contrast related ideas | | | | &check; | &check; |
+| | explain their choices | |  | &check; | &check; | &check; |
