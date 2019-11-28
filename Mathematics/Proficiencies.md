@@ -30,3 +30,18 @@
 |  | choose appropriate methods and approximations |  |  |  | &check; | &check; |
 |  | recall definitions and regularly use facts |  |  | &check; | &check; | &check; |
 |  | can manipulate expressions and equations to find solutions |  |  |  |  | &check; |
+
+## Problem-solving
+
+| | | | Foundation to Year 2 | Years 3 to 6 | Years 7 and 8 | Years 9 and 10 |
+|---|---|---|--------|--------|--------|---------|
+| Students solve problems when they: | | | &check; | &check; | | |
+| Students formulate and solve problems when they: | | | | | &check; | &check; |
+|  | use mathematics to represent unfamiliar or meaningful situations |  | &check; | &check; | &check; | &check; |
+|  | plain their approaches |  |  | &check; | &check; |  |
+|  | design investigations and plan their approaches |  |  |  |  | &check; |
+|  | apply their existing strategies to seek solutions |  |  |  | &check; | &check; |
+|  | verify that their answers are reasonable |  |  |  | &check; | &check; |
+| Students develop the ability to: | make choices | | | | | &check; |
+|  | interpret, formulate, model and investigate problem situations | | | | | &check; |
+|  | communicate solutions effectively | | | | | &check; |
